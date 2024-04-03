@@ -7,9 +7,9 @@
 
 #include <aws/event-stream/event_stream_rpc_server.h>
 
-#ifndef AWS_UNSTABLE_TESTING_API
-#    error The functions in this header file are for testing purposes only!
-#endif
+// #ifndef AWS_UNSTABLE_TESTING_API
+// #    error The functions in this header file are for testing purposes only!
+// #endif
 
 AWS_EXTERN_C_BEGIN
 
